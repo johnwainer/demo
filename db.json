@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"id":"1","nit":"ec2157bbe284617ecd88ce82ba07e98b","name":"Cliente 1","address":"Cll 1 # 123","phone":"312312312","cities_id":"1","created":"1567479034","quota":"50000000","quota_balance":"49950050","visits_percentage":"0.9"},{"id":"10","nit":"ec2157bbe284617ecd88ce82ba07e98b","name":"Cliente 2","address":"cr 4 # 789","phone":"22334455","cities_id":"3","created":"1567478071","quota":"12000000","quota_balance":"11977650","visits_percentage":"1.5"},{"id":"11","nit":"0abb0cc87846bda30853e04ddcdf8e51","name":"Cliente 3","address":"transv 3 # 683 - 09","phone":"7685643","cities_id":"2","created":"1567478155","quota":"10000000","quota_balance":"9956000","visits_percentage":"2"},{"id":"12","nit":"30d2a8bc11db39ca2ac85ae76a16a0d3","name":"Cliente 4","address":"mz 2a c 12","phone":"99900055","cities_id":"4","created":"1567478175","quota":"16000000","quota_balance":"15945000","visits_percentage":"5"},{"id":"13","nit":"1004a93a4a98993df149cbcf40c0b0c4","name":"vcliente 5","address":"ciudad bla","phone":"34253245324","cities_id":"1","created":"1567630912","quota":"342234324","quota_balance":"342234320.4","visits_percentage":"0.3"}
